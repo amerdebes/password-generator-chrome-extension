@@ -1,0 +1,10 @@
+{
+    "name":"amer's password generator",
+    "description":"chrome extension for generate random and strong password",
+    "version":"1.0",
+    "manifest_version":2,
+    "browser_action":{
+        "default_popup":"index.html",
+        "default_icon":"pass.png"
+    }
+}

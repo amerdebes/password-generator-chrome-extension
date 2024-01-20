@@ -1,0 +1,25 @@
+body{
+    width: 300px;
+    height: 225px;
+    background-color: darkblue;
+}
+h1{
+    font-size: 30px;
+    user-select: none;
+}
+span{
+    color: chartreuse;
+    border-bottom: 5px solid chartreuse;
+}
+input{
+    font-size: 20px;
+    border: 0;
+}
+input:focus{
+    border: 0;
+}
+img{
+    width: 50px;
+    border: 1px solid black;
+    margin: 10px;
+}
